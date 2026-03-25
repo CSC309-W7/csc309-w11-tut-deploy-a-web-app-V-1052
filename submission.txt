@@ -1,1 +1,1 @@
-csc309-w11-tut-deploy-a-web-app-v-1052-production.up.railway.app
+https://csc309-w11-tut-deploy-a-web-app-v-1052-production.up.railway.app/
